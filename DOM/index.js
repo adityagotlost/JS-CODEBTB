@@ -6,12 +6,13 @@
 //            JavaScript can access the DOM to dynamically 
 //            change the content, structure, and style of a web page.
 
+/*
 document.title = "My website";
 document.body.style.backgroundColor = "hsl(0, 0%, 15%)";
 
 console.log(document);
 console.dir(document);
-
+*/
 
 const username = "Aditya";
 const welcomeMsg = document.getElementById("welcome-msg");
