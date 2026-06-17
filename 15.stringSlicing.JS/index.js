@@ -2,7 +2,7 @@
 //                            from a portion of another string
 //                            string.slice(start, end)
 
-// ------------ EXAMPLE 1 ------------
+
 const fullName = "Bro Code";
 
 let firstName = fullName.slice(0, 3);
@@ -10,8 +10,6 @@ let lastName = fullName.slice(4, 8);
 
 console.log(firstName);
 console.log(lastName);
-
-// ------------ EXAMPLE 2 ------------
 
 const email = "Bro1@gmail.com";
 
