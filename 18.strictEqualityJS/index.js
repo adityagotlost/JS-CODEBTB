@@ -4,6 +4,10 @@
 //  != inequality operator
 // !== strict inequality operator
 
+// Operator	    Checks Value?	Checks Data Type?	Converts Types?
+// != (Loose)	Yes	            No	                Yes
+// !== (Strict)	Yes	            Yes	                No
+
 const PI = 3.14;
 
 if(PI === "3.14"){
